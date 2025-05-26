@@ -1,6 +1,8 @@
 import React from 'react';
 import { ScrollView, StyleSheet, Text, View } from "react-native";
 import AudioPlayer from '../../components/AudioPlayer';
+import { useTranslation } from "react-i18next";
+
 
 const apostlesDoctrineAudio = require("../../assets/audio/Apostles-Doctrine-1.mp3");
 const repentanceAndFaithAudio = require("../../assets/audio/Repentance-Faith.mp3")
@@ -14,64 +16,60 @@ const eternalJudgements = require("../../assets/audio/Eternal-judgements.mp3")
 const perfection = require("../../assets/audio/Perfection.mp3")
 
 export default function Principals() {
+    const { t } = useTranslation();
     return (
         <ScrollView contentContainerStyle={styles.container}>
-            <Text style={styles.heading}>Biblical Foundation Series</Text>
-            <Text style={styles.text}>
-                The Foundations of the Christian faith are key to a life lived well before God.
-                In Hebrews 6, the writer lays out the foundation stones that need to be laid in the believers life.
-                This biblical foundation series explores each of these foundation stones in depth.
-                This is the foundation “Jesus Christ”
-            </Text>
+            <Text style={styles.heading}>{t("screens.principals.title")}</Text>
+            <Text style={styles.text}>{t("screens.principals.text.heading")}</Text>
 
             <AudioPlayer
                 audioSource={apostlesDoctrineAudio}
-                title="Teachings of the Apostles"
+                title={t("screens.principals.text.apostlesDoctrine")}
             />
 
             <AudioPlayer 
                 audioSource={repentanceAndFaithAudio}
-                title="Repentance and Faith"
+                title={t("screens.principals.text.repentanceAndFaith")}
             />
 
             <AudioPlayer 
                 audioSource={baptismIntoChrist}
-                title="Baptism into Christ"
+                title={t("screens.principals.text.baptismIntoChrist")}
             />
             
             <AudioPlayer
                 audioSource={baptismIntoWater}
-                title="Baptism into Water"
+                title={t("screens.principals.text.baptismIntoWater")}
             />
 
             <AudioPlayer 
                 audioSource={baptismIntoHolySpirit}
-                title="Baptism into the Holy Spirit"
+                title={t("screens.principals.text.baptismIntoHolySpirit")}
             />
 
             <AudioPlayer
                 audioSource={baptismIntoSufferings}
-                title="Baptism into the sufferings of Christ"
+                title={t("screens.principals.text.baptismIntoSufferings")}
             />
 
             <AudioPlayer 
                 audioSource={layingHands}
-                title="Laying on of Hands"
+                title={t("screens.principals.text.layingHands")}
             />
 
             <AudioPlayer 
                 audioSource={resurrection}
-                title="Ressurection of the dead"
+                title={t("screens.principals.text.resurrection")}
             />
 
             <AudioPlayer 
                 audioSource={eternalJudgements}
-                title="Eternal Judgements"
+                title={t("screens.principals.text.eternalJudgements")}
             />
 
             <AudioPlayer 
                 audioSource={perfection}
-                title="Going onto Perfection"
+                title={t("screens.principals.text.perfection")}
             />
                 
         </ScrollView>

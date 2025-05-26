@@ -1,0 +1,49 @@
+{
+  "language": "isiZulu",
+  "screens": {
+    "index": {
+      "title": "Ikhaya",
+      "text": {
+        "text": "Ukubizela i-Afrika Ukuba Ibuyele eSisekelweni Sabapostoli"
+      }
+    },
+    "about": {
+      "title": "Mayelana",
+      "text": {
+        "mainHeading": "Mayelana Nathi",
+        "subHeading1": "Singobani",
+        "description1": "Siyinethiwekhi Yamasonto (AKUSI ihlelo), sisebenza ngobudlelwano (AKUSI ngesakhiwo senhlangano). Sixhumene ezinhliziyweni zethu (AKUSI ngomthetho sisekelo), sigxile ekwakheni iBandla likaJesu Kristu; sakha KUPHELA esisekelweni sikaJesu Kristu, silandela izimfundiso zabapostoli.",
+        "subHeading2": "Umbono Wethu",
+        "description2": "Thina njengenethiwekhi yamaSonto ebudlelwaneni obuqotho omunye nomunye sakha iBandla likaJesu Kristu ezwenikazi lase-Afrika ngokwesisekelo sabapostoli.",
+        "subHeading3": "Izinhloso Zethu",
+        "description3": "Xhumana namaSonto anomqondo ofanayo. Yakha ubudlelwano obuholela ebunyeni eMoyeni naseKukholweni. Qinisekisa ukuthi iBandla lihlala liyisi \"sisekelo nensika\" yeqiniso. Veza ngokucacile umbono wabapostoli. Thuthukisa isimilo sokuhlonipha uNkulunkulu emalungeni eBandla. Qeqesha, thuthukisa, hlomisa futhi uthumele izithunywa zevangeli zomdabu. Yakha amaqembu abapostoli kuzo zonke izizwe, izifunda kanye namazwekazi."
+      }
+    },
+    "principals": {
+      "title": "Izimiso",
+      "text": {
+        "heading": "Izisekelo zokukholwa kobuKristu ziyisihluthulelo sempilo ephile kahle phambi kukaNkulunkulu. KumaHeberu 6, umbhali ubeka amatshe esisekelo okudingeka abekwe empilweni yabakholwayo. Lolu chungechunge lwebhayibheli mayelana nezisekelo luhlola ngakunye kwalawa matshe esisekelo ngokujulile. Lesi yisisekelo 'uJesu Kristu'.",
+        "apostlesDoctrine": "Imfundiso yabapostoli",
+        "repentanceAndFaith": "Ukuphenduka Nokukholwa",
+        "baptismIntoChrist": "Ukubhapathizwa kuKristu",
+        "baptismIntoWater": "Ukubhapathizwa EmaNzini",
+        "baptismIntoHolySpirit": "Ukubhapathizwa kuMoya oNgcwele",
+        "baptismIntoSufferings": "Ukubhapathizwa Osizini lukaKristu",
+        "layingHands": "Ukubekwa Izandla",
+        "resurrection": "Ukuvuka Kwabafileyo",
+        "eternalJudgements": "Izahlulelo Zaphakade",
+        "perfection": "Ukuqhubekela Ekupheleleni"
+      }
+    },
+    "resources": {
+      "title": "Izinsiza",
+      "text": {
+        "churchOnTheRock": "Ibandla Ezweni",
+        "chooseLanguage": "Khetha ulimi lwakho"
+      }
+    }
+  },
+  "common": {
+    "change_language": "Shintsha ulimi"
+  }
+}

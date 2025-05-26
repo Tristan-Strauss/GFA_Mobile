@@ -1,0 +1,49 @@
+{
+    "language": "English",
+    "screens": {
+        "index": {
+            "title": "Home",
+            "text": {
+                "text": "Calling Africa to Return to the Apostolic Foundation"
+            }
+        },
+        "about": {
+            "title": "About",
+            "text": {
+                "mainHeading": "About Us",
+                "subHeading1": "Who We Are",
+                "description1": "We are a Network of Churches (NOT a denomination), functioning in relationship (NOT by organisational structure). Connected in our hearts (NOT by constitution), focused on building the Church of Jesus Christ; building ONLY on the foundation of Jesus Christ, following the teachings of the Apostles.",
+                "subHeading2": "Our Vision",
+                "description2": "We as a network of Churches in sincere relationship with one another are building the Church of Jesus Christ on the African continent in accordance with the Apostolic foundation.",
+                "subHeading3": "Our Objectives",
+                "description3": "Network with like minded Churches. Build relationships leading to unity in the Spirit and the Faith. Ensure the Church remains the \"ground and pillar\" of truth. Clearly present the Apostolic vision. Develop Godly character in Church members. Train, develop, equip and send native missionaries. Build Apostolic teams in each nation, region and continent."
+            }
+        },
+        "principals": {
+            "title": "Principals",
+            "text": {
+                "heading": "The Foundations of the Christian faith are key to a life lived well before God. In Hebrews 6, the writer lays out the foundation stones that need to be laid in the believers life. This biblical foundation series explores each of these foundation stones in depth. This is the foundation 'Jesus Christ'",
+                "apostlesDoctrine": "Teaching of the Apostles",
+                "repentanceAndFaith": "Repentance and Faith",
+                "baptismIntoChrist": "Baptism into Christ",
+                "baptismIntoWater": "Baptism into Water",
+                "baptismIntoHolySpirit": "Baptism into the Holy Spirit",
+                "baptismIntoSufferings": "Baptism into the Sufferings of Christ",
+                "layingHands": "Laying on of Hands",
+                "resurrection": "Resurrection of the Dead",
+                "eternalJudgements": "Eternal Judgements",
+                "perfection": "Going onto Perfection"
+            }
+        },
+        "resources": {
+            "title": "Resources",
+            "text": {
+                "churchOnTheRock": "Church on the Rock",
+                "chooseLanguage": "Choose your language"
+            }
+        }
+    },
+    "common": {
+        "change_language": "Change language"
+    }
+}

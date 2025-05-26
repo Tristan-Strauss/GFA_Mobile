@@ -1,0 +1,49 @@
+{
+  "language": "Français",
+  "screens": {
+    "index": {
+      "title": "Accueil",
+      "text": {
+        "text": "Appeler l'Afrique à revenir au fondement apostolique"
+      }
+    },
+    "about": {
+      "title": "À propos",
+      "text": {
+        "mainHeading": "À propos de nous",
+        "subHeading1": "Qui nous sommes",
+        "description1": "Nous sommes un réseau d'Églises (PAS une dénomination), fonctionnant en relation (PAS par une structure organisationnelle). Connectés dans nos cœurs (PAS par une constitution), concentrés sur la construction de l'Église de Jésus-Christ ; construisant UNIQUEMENT sur le fondement de Jésus-Christ, suivant les enseignements des Apôtres.",
+        "subHeading2": "Notre vision",
+        "description2": "En tant que réseau d'Églises en relation sincère les unes avec les autres, nous construisons l'Église de Jésus-Christ sur le continent africain conformément au fondement apostolique.",
+        "subHeading3": "Nos objectifs",
+        "description3": "Réseauter avec des Églises partageant les mêmes idées. Construire des relations menant à l'unité dans l'Esprit et la Foi. S'assurer que l'Église reste le \"fondement et la colonne\" de la vérité. Présenter clairement la vision apostolique. Développer un caractère pieux chez les membres de l'Église. Former, développer, équiper et envoyer des missionnaires locaux. Construire des équipes apostoliques dans chaque nation, région et continent."
+      }
+    },
+    "principals": {
+      "title": "Principes",
+      "text": {
+        "heading": "Les fondements de la foi chrétienne sont essentiels pour une vie bien vécue devant Dieu. Dans Hébreux 6, l'auteur expose les pierres de fondation qui doivent être posées dans la vie du croyant. Cette série biblique sur les fondements explore en profondeur chacune de ces pierres de fondation. Ceci est le fondement 'Jésus-Christ'.",
+        "apostlesDoctrine": "Enseignement des Apôtres",
+        "repentanceAndFaith": "Repentance et Foi",
+        "baptismIntoChrist": "Baptême en Christ",
+        "baptismIntoWater": "Baptême dans l'eau",
+        "baptismIntoHolySpirit": "Baptême dans le Saint-Esprit",
+        "baptismIntoSufferings": "Baptême dans les souffrances de Christ",
+        "layingHands": "Imposition des mains",
+        "resurrection": "Résurrection des morts",
+        "eternalJudgements": "Jugements éternels",
+        "perfection": "Tendre à la perfection"
+      }
+    },
+    "resources": {
+      "title": "Ressources",
+      "text": {
+        "churchOnTheRock": "Église sur le Rocher",
+        "chooseLanguage": "Choisissez votre langue"
+      }
+    }
+  },
+  "common": {
+    "change_language": "Changer de langue"
+  }
+}

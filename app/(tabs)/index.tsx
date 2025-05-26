@@ -1,6 +1,8 @@
 import { Image, StyleSheet, Text, View } from "react-native";
+import { useTranslation } from "react-i18next";
 
 export default function Index() {
+  const { t } = useTranslation();
 
   const GFA_Image = require("@/assets/images/GFA_Cover.png")
 
@@ -8,7 +10,7 @@ export default function Index() {
     <View style={styles.container}>
       <Image source={ GFA_Image } style={styles.image}/>
       <Text style={styles.heading}>Gospel For Africa</Text>
-      <Text style={styles.text}>Calling Africa to Return to the Apostolic Foundation</Text>
+      <Text style={styles.text}>{t("screens.index.text.text")}</Text>
     </View>
   );
 }

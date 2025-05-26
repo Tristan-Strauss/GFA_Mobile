@@ -1,0 +1,49 @@
+{
+  "language": "Português",
+  "screens": {
+    "index": {
+      "title": "Início",
+      "text": {
+        "text": "Chamando a África para Retornar ao Fundamento Apostólico"
+      }
+    },
+    "about": {
+      "title": "Sobre",
+      "text": {
+        "mainHeading": "Sobre Nós",
+        "subHeading1": "Quem Somos",
+        "description1": "Somos uma Rede de Igrejas (NÃO uma denominação), funcionando em relacionamento (NÃO por estrutura organizacional). Conectados em nossos corações (NÃO por constituição), focados em edificar a Igreja de Jesus Cristo; edificando SOMENTE sobre o fundamento de Jesus Cristo, seguindo os ensinamentos dos Apóstolos.",
+        "subHeading2": "Nossa Visão",
+        "description2": "Nós, como uma rede de Igrejas em sincero relacionamento umas com as outras, estamos edificando a Igreja de Jesus Cristo no continente africano de acordo com o fundamento Apostólico.",
+        "subHeading3": "Nossos Objetivos",
+        "description3": "Fazer network com Igrejas de mentalidade semelhante. Construir relacionamentos que levem à unidade no Espírito e na Fé. Garantir que a Igreja permaneça o \"alicerce e coluna\" da verdade. Apresentar claramente a visão Apostólica. Desenvolver caráter piedoso nos membros da Igreja. Treinar, desenvolver, equipar e enviar missionários nativos. Construir equipes Apostólicas em cada nação, região e continente."
+      }
+    },
+    "principals": {
+      "title": "Princípios",
+      "text": {
+        "heading": "Os fundamentos da fé cristã são chave para uma vida bem vivida diante de Deus. Em Hebreus 6, o escritor estabelece as pedras de fundação que precisam ser colocadas na vida dos crentes. Esta série bíblica sobre fundamentos explora cada uma dessas pedras de fundação em profundidade. Este é o fundamento 'Jesus Cristo'.",
+        "apostlesDoctrine": "Doutrina dos Apóstolos",
+        "repentanceAndFaith": "Arrependimento e Fé",
+        "baptismIntoChrist": "Batismo em Cristo",
+        "baptismIntoWater": "Batismo nas Águas",
+        "baptismIntoHolySpirit": "Batismo no Espírito Santo",
+        "baptismIntoSufferings": "Batismo nos Sofrimentos de Cristo",
+        "layingHands": "Imposição de Mãos",
+        "resurrection": "Ressurreição dos Mortos",
+        "eternalJudgements": "Juízos Eternos",
+        "perfection": "Prosseguindo para a Perfeição"
+      }
+    },
+    "resources": {
+      "title": "Recursos",
+      "text": {
+        "churchOnTheRock": "Igreja sobre a Rocha",
+        "chooseLanguage": "Escolha seu idioma"
+      }
+    }
+  },
+  "common": {
+    "change_language": "Mudar idioma"
+  }
+}

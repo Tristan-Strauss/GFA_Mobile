@@ -3,6 +3,8 @@ import * as FileSystem from "expo-file-system";
 import { Image } from "expo-image";
 import { shareAsync } from "expo-sharing";
 import { Button, Platform, ScrollView, StyleSheet, Text, View } from "react-native";
+import { useTranslation } from "react-i18next";
+
 
 export default function Resources() {
   
@@ -72,15 +74,15 @@ export default function Resources() {
         return baseUrl + "/2025/01/Church-on-the-Rock-English.docx";
     }
   }
-
+  const { t } = useTranslation();
   return (
       <ScrollView contentContainerStyle={styles.container}>
-          <Text style={styles.heading}>Resources</Text>
+          <Text style={styles.heading}>{t("screens.resources.title")}</Text>
           <View style={styles.section}>
-            <Text style={styles.text}>Church on the Rock</Text>
+            <Text style={styles.text}>{t("screens.resources.text.churchOnTheRock")}</Text>
             <Image source={ COTR_image } style={styles.image}/>
             <View>
-              <Text style={styles.subtext} >Choose your language</Text>
+              <Text style={styles.subtext}>{t("screens.resources.text.chooseLanguage")}</Text>
               <LanguageDropdown onValueChange={(value) => {onValueChange(value)}}/>
               <Button title="Download" onPress={downloadFromUrl}/>
             </View>

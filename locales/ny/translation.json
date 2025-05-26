@@ -1,0 +1,49 @@
+{
+  "language": "Chichewa",
+  "screens": {
+    "index": {
+      "title": "Poyamba",
+      "text": {
+        "text": "Kuyitana Africa Kubwerera ku Maziko a Utumwi"
+      }
+    },
+    "about": {
+      "title": "Za Ife",
+      "text": {
+        "mainHeading": "Za Ife",
+        "subHeading1": "Ndife Ndani",
+        "description1": "Ndife Gulu la Matchalitchi (OSATI chipembedzo), tikugwira ntchito mu ubale (OSATI ndi dongosolo la bungwe). Okhazikika m'mitima mwathu (OSATI ndi malamulo), okhazikika pa kumanga Mpingo wa Yesu Khristu; kumanga PA maziko a Yesu Khristu NOKHA, kutsatira ziphunzitso za Atumwi.",
+        "subHeading2": "Masomphenya Athu",
+        "description2": "Ife monga gulu la Matchalitchi mu ubale wowona mtima wina ndi mnzake tikumanga Mpingo wa Yesu Khristu pa kontinenti ya Africa mogwirizana ndi maziko a Utumwi.",
+        "subHeading3": "Zolinga Zathu",
+        "description3": "Gwirizanani ndi Matchalitchi omwe ali ndi malingaliro ofanana. Pangani maubale omwe amachititsa mgwirizano mu Mzimu ndi Chikhulupiriro. Onetsetsani kuti Mpingo ukhalabe \"maziko ndi mtengo\" wa chowonadi. Fotokozani bwino masomphenya a Utumwi. Limbikitsani khalidwe laumulungu mwa mamembala a Mpingo. Phunzitsani, kulitsa, kukonzekeretsa ndi kutumiza amishonale achibale. Pangani magulu a Utumwi m'dziko lirilonse, dera ndi kontinenti."
+      }
+    },
+    "principals": {
+      "title": "Mfundo Zazikulu",
+      "text": {
+        "heading": "Maziko a chikhulupiriro chachikhristu ndi ofunika kwambiri pa moyo wokhala bwino pamaso pa Mulungu. Mu Ahebri 6, wolemba akufotokoza miyala ya maziko yomwe iyenera kukhazikitsidwa m'moyo wa okhulupirira. Mndandanda uwu wa m'Baibulo wa maziko umafufuza mwakuya mwala uliwonse wa maziko awa. Ichi ndi maziko 'Yesu Khristu'.",
+        "apostlesDoctrine": "Chiphunzitso cha Atumwi",
+        "repentanceAndFaith": "Kulapa ndi Chikhulupiriro",
+        "baptismIntoChrist": "Ubatizo mwa Khristu",
+        "baptismIntoWater": "Ubatizo m'Madzi",
+        "baptismIntoHolySpirit": "Ubatizo mu Mzimu Woyera",
+        "baptismIntoSufferings": "Ubatizo mu Zowawa za Khristu",
+        "layingHands": "Kuyika Manja",
+        "resurrection": "Kuuka kwa Akufa",
+        "eternalJudgements": "Maweruzo Osatha",
+        "perfection": "Kupitiriza ku Ukamilifu"
+      }
+    },
+    "resources": {
+      "title": "Zothandiza",
+      "text": {
+        "churchOnTheRock": "Mpingo pa Thanzi",
+        "chooseLanguage": "Sankhani chinenero chanu"
+      }
+    }
+  },
+  "common": {
+    "change_language": "Sinthani chinenero"
+  }
+}

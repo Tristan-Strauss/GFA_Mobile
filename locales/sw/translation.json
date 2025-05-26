@@ -1,0 +1,49 @@
+{
+  "language": "Kiswahili",
+  "screens": {
+    "index": {
+      "title": "Nyumbani",
+      "text": {
+        "text": "Kuiita Afrika Kurudi kwenye Msingi wa Kitume"
+      }
+    },
+    "about": {
+      "title": "Kuhusu",
+      "text": {
+        "mainHeading": "Kuhusu Sisi",
+        "subHeading1": "Sisi Ni Nani",
+        "description1": "Sisi ni Mtandao wa Makanisa (SI madhehebu), tukifanya kazi kwa uhusiano (SI kwa muundo wa ташкилот). Tumeunganishwa mioyoni mwetu (SI kwa katiba), tukilenga kujenga Kanisa la Yesu Kristo; tukijenga JUU YA msingi wa Yesu Kristo PEKEE, tukifuata mafundisho ya Mitume.",
+        "subHeading2": "Maono Yetu",
+        "description2": "Sisi kama mtandao wa Makanisa katika uhusiano wa dhati na kila mmoja tunajenga Kanisa la Yesu Kristo katika bara la Afrika kwa mujibu wa msingi wa Kitume.",
+        "subHeading3": "Malengo Yetu",
+        "description3": "Ungana na Makanisa yenye nia moja. Jenga mahusiano yanayoongoza kwenye umoja katika Roho na Imani. Hakikisha Kanisa linabaki kuwa \"msingi na nguzo\" ya kweli. Wasilisha waziwazi maono ya Kitume. Kuza tabia ya kimungu katika washiriki wa Kanisa. Funza, kuza, wezesha na tuma wamisionari wenyeji. Jenga timu za Kitume katika kila taifa, kanda na bara."
+      }
+    },
+    "principals": {
+      "title": "Misingi",
+      "text": {
+        "heading": "Misingi ya imani ya Kikristo ni muhimu kwa maisha yanayoishiwa vizuri mbele za Mungu. Katika Waebrania 6, mwandishi anaweka misingi ambayo inahitaji kuwekwa katika maisha ya waumini. Mfululizo huu wa kibiblia kuhusu misingi unaangalia kila moja ya misingi hii kwa kina. Huu ndio msingi 'Yesu Kristo'.",
+        "apostlesDoctrine": "Mafundisho ya Mitume",
+        "repentanceAndFaith": "Toba na Imani",
+        "baptismIntoChrist": "Ubatizo katika Kristo",
+        "baptismIntoWater": "Ubatizo katika Maji",
+        "baptismIntoHolySpirit": "Ubatizo katika Roho Mtakatifu",
+        "baptismIntoSufferings": "Ubatizo katika Mateso ya Kristo",
+        "layingHands": "Kuwekewa Mikono",
+        "resurrection": "Ufufuo wa Wafu",
+        "eternalJudgements": "Hukumu za Milele",
+        "perfection": "Kuelekea Ukamilifu"
+      }
+    },
+    "resources": {
+      "title": "Rasilimali",
+      "text": {
+        "churchOnTheRock": "Kanisa Juu ya Mwamba",
+        "chooseLanguage": "Chagua lugha yako"
+      }
+    }
+  },
+  "common": {
+    "change_language": "Badilisha lugha"
+  }
+}
